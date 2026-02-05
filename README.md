@@ -1,43 +1,44 @@
-# 0xYourName
+<!-- ===================== -->
+<!-- GitHub Profile README -->
+<!-- ===================== -->
 
-<p align="center">
-  <b>DevOps & Systems Engineer</b> • <i>Building scalable, resilient infrastructure.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<img src="assets/banner.png" alt="Profile Banner" width="100%"/>
 
----
+# 👋 Hi, I'm Prasath
 
-### 01 . Current Focus
-- 🏗️ **Architecting** a high-performance POS system with Electron.
-- 🦀 **Exploring** Systems Programming with Go and Linux kernel internals.
-- 🚢 **Optimizing** CI/CD pipelines for open-world game backends.
+**Software Engineering Undergraduate · Game Dev · DevOps · Systems Nerd**
 
-### 02 . Stack & Tools
-| Domain | Tools |
-| :--- | :--- |
-| **Ops** | Docker, Linux (Fedora/Pop!_OS), Git |
-| **Back** | Go, PHP, WebRTC |
-| **Game** | Godot, Unity (ML-Agents) |
+> Building things to understand how reality ticks,  
+> then breaking them to learn faster.
 
-<details>
-<summary><b>03 . View Technical Details (Click to Expand)</b></summary>
-<br>
-
-- **OS:** Custom Fedora setup with Kitty & Zsh.
-- **Hardware:** Repurposed 10-year-old laptop homelab.
-- **Philosophy:** Automation over manual intervention; clarity over complexity.
-</details>
+</div>
 
 ---
 
-### 04 . Connect
-[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio.com) • [Email](mailto:your@email.com)
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8" alt="Stats" />
+- 🔧 I enjoy **low-level systems**, networking, and infrastructure
+- 🎮 I build **games and simulations** to explore complex ideas
+- 🐧 Daily-driving Linux and self-hosting everything I can
+- 🌏 Curious about languages, psychology, and how humans think
+- ⚙️ Strong believer in learning by *building first, theorizing second*
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="assets/icons/rust.svg" width="40"/> 
+<img src="assets/icons/go.svg" width="40"/> 
+<img src="assets/icons/python.svg" width="40"/> 
+<img src="assets/icons/cpp.svg" width="40"/> 
+<img src="assets/icons/js.svg" width="40"/> 
 </p>
+
+```rust
+fn mindset() -> &'static str {
+    "Build → Break → Learn → Repeat"
+}
