@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="Assets/background.gif" alt="Profile Banner" width="100%"/>
+<img src="Assets/background.gif" alt="Profile Banner" width="200%"/>
 
 # ✨My Lige I am Your Humble Knight Sir Prasanna✨
 
