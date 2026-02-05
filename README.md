@@ -8,7 +8,7 @@
 
 # ✨ My Lige I am Your Humble Knight<br>Sir Prasanna ✨ 
 
-<div align="left" width="100%"> <img src="Assets/idle_knight2.gif" alt="Knight" width="100px"/>
+<div align="center" width="100%"> <img src="Assets/idle_knight2.gif" alt="Knight" width="250px"/>
 </div>
 
 **Software Engineering Undergraduate · Game Dev · DevOps · Systems Nerd**
