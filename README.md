@@ -6,8 +6,9 @@
 
 <img src="Assets/background.gif" alt="Profile Banner" width="100%"/>
 
-# ✨ My Lige I am Your Humble Knight<br>Sir Prasanna ✨ 
-<div align="left" width="100%"> <img src="Assets/idle_knight2.gif" alt="Knight" width="50%"/>
+
+<div align="left" width="100%"> <img src="Assets/idle_knight2.gif" alt="Knight" width="25%"/>
+    # ✨ My Lige I am Your Humble Knight<br>Sir Prasanna ✨ 
 </div>
 
 **Software Engineering Undergraduate · Game Dev · DevOps · Systems Nerd**
