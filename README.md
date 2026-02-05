@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Profile Banner" width="100%"/>
+<img src="Assets/background.gif" alt="Profile Banner" width="100%"/>
 
-# 👋 Hi, I'm Prasath
+# ✨My Lige I am Your Humble Knight Sir Prasanna✨
 
 **Software Engineering Undergraduate · Game Dev · DevOps · Systems Nerd**
 
