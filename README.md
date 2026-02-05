@@ -4,9 +4,10 @@
 
 <div align="center">
 
-<img src="Assets/background.gif" alt="Profile Banner" width="200%"/>
+<img src="Assets/background.gif" alt="Profile Banner" width="100%"/>
 
-# ✨My Lige I am Your Humble Knight Sir Prasanna✨
+# ✨ My Lige I am Your Humble Knight<br>Sir Prasanna ✨ 
+<img src="Assets/idle_knight1.gif" alt="Knight" width="100%" align="left"/>
 
 **Software Engineering Undergraduate · Game Dev · DevOps · Systems Nerd**
 
