@@ -7,7 +7,7 @@
 <img src="Assets/background.gif" alt="Profile Banner" width="100%"/>
 
 
-<div align="left" width="100%"> <img src="Assets/idle_knight2.gif" alt="Knight" width="25%"/>
+<div align="left" width="100%"> <img src="Assets/idle_knight2.gif" alt="Knight" width="50px"/>
     # ✨ My Lige I am Your Humble Knight<br>Sir Prasanna ✨ 
 </div>
 
