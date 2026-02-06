@@ -91,7 +91,7 @@ Every great adventure needs companions. I seek fellow travelers who dream of bui
   <a href="mailto:prasadkvithana@gmail.com">
     <img src="https://img.shields.io/badge/📧_Send_a_Raven-Messenger_Service-red?style=for-the-badge" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/prasad-prasanna-367660287">
+  <a href="https://www.linkedin.com/in/prasad-prasanna-367660287" target="_blank">
     <img src="https://img.shields.io/badge/🤝_Join_the_Guild-Professional_Network-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
 </div>
