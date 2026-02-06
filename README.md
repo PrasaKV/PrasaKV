@@ -68,7 +68,7 @@ Every knight needs trusted companions on their journey. These are mine—each ma
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=PrasaKV" width="400px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=PrasaKV&show_icons=true&hide_rank=true&hide_title=true&theme=radical" width="400px"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasaKV&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae" width="300px"/></td>
     </tr>
   </table>
