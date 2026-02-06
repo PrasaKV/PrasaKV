@@ -1,92 +1,106 @@
 <div align="center">
   
-  <img src="Assets/background.gif" alt="The Great Realm" width="100%" />
+  <img src="Assets/background.gif" alt="Profile Banner" width="100%" />
   
   <br>
   
-  <h1>⚔️ Welcome to the Citadel of Code ⚔️</h1>
+  <h1>⚔️ Hail, Traveler! I am Sir Prasanna ⚔️</h1>
   <p align="center">
-    <strong>Scribe of Systems • Architect of Hidden Realms • Sir Prasanna</strong>
+    <strong>Wandering Knight • Builder of Digital Kingdoms • Seeker of Adventure</strong>
   </p>
   
-  <img src="Assets/idle_knight2.gif" alt="The Knight at Rest" width="200px"/>
-
+  <img src="Assets/idle_knight2.gif" alt="Knight Idle" width="220px"/>
   <br>
-
-  ### "A single line of ink can build a castle or start a war."
+  ### 📜 Chronicler of Code • Weaver of Dreams • Guardian of the Realm
   
-  > *I began my journey as a humble apprentice in the valley of Logic.*<br>
-  > *Today, I wander the digital wildlands, taming chaos and forging order*<br>
-  > *from the raw ether of the void.*
-
+  > *"From shadowed dungeons filled with ancient puzzles to mountain peaks where visions become reality,*<br>
+  > *I have walked many paths and learned countless secrets. Now I journey forth,*<br>
+  > *seeking brave companions to forge legendary tales together."*
 </div>
 
 ---
 
-## 🗺️ The World Map (Active Adventures)
+## 🗺️ The Tale Begins
 
-*Instead of a list of tasks, here is where my banner currently flies:*
-
-* **🏰 The Great Emporium:** I am currently enchanting a "Master Ledger" for a merchant’s guild, allowing them to track their silks and treasures with lightning speed across a magical looking-glass.
-* **🛠️ The Architect’s Forge:** I am building a grand archive (a "Portfolio") to display the relics and artifacts I have recovered from past expeditions into the deep-cloud.
-* **🌀 The Endless Library:** Every night, I study the "Ancient Runes of Efficiency," learning how to make my spells cast faster and use less mana (energy).
-
----
-
-## 🎒 The Hero’s Inventory (My Arsenal)
-
-*A knight is only as strong as his tools and his training.*
-
-### 🔮 The High Runes
-**Go & Rust:** My heaviest broadswords. Used for slaying dragons and building bridges that never collapse, no matter how many travelers cross them.
-
-### 📜 The Universal Script
-**Python & JavaScript:** My versatile scrolls. Whether I need to talk to a bird or automate a drawbridge, these allow me to speak to any creature in the realm.
-
-### 🛡️ The Great Bastion
-**Linux & Docker:** My armor and my fortress. They ensure that wherever I go, I carry my own safe environment, protected from the unpredictable storms of the outside world.
-
----
-
-## 📜 Heroic Deeds (Statistics)
+Welcome, noble soul! My journey has taken me through **endless trials**, **perilous challenges**, and **moonlit quests** that tested both wit and will. From the deepest caverns to the highest towers, I've learned to craft solutions where others see only chaos, to build bridges where others find only chasms.
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=PrasaKV&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="400px"/>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasaKV&theme=nightowl&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="80%" />
-
+  <img src="Assets/adventures.gif" alt="Dungeon Adventure Banner" width="100%"/>
 </div>
 
 ---
 
-## 🕊️ Send a Messenger Bird
+## ⚔️ Tools of the Trade
 
-*Do you have a dragon that needs slaying? Or perhaps a kingdom that needs building?*
+Every knight needs trusted companions on their journey. These are mine—each mastered through countless battles and victories:
+
+### 🔥 Weapons of Choice
+<div align="center">
+  <img src="Assets/GoLang.gif" width="120" alt="Go" title="The Swift Blade"/>
+  <img src="Assets/Rust.gif" width="120" alt="Rust" title="The Unbreakable Shield"/>
+  <img src="Assets/Python.gif" width="120" alt="Python" title="The Wise Serpent"/>
+  <img src="Assets/JS.gif" width="120" alt="JS" title="The Shapeshifter"/>
+  <img src="Assets/Java.gif" width="120" alt="Java" title="The Ancient Tome"/>
+</div>
+
+### 🛠️ Legendary Artifacts
+<div align="center">
+  <img src="Assets/Linux.gif" width="120" alt="Linux" title="Kingdom's Foundation"/>
+  <img src="Assets/Docker.gif" width="120" alt="Docker" title="Portable Fortress"/>
+  <img src="Assets/MySQL.gif" width="120" alt="MySQL" title="Memory Vault"/>
+</div>
+
+---
+
+## 📜 Current Quests
+
+| The Adventure | The Challenge | The Treasure |
+| :--- | :--- | :--- |
+| **The Merchant's Alliance** | Crafting a powerful tool to help shopkeepers manage their kingdoms | `New friendships forged` |
+| **The Cloud Citadel** | Building a magnificent showcase of my greatest works | `Recognition from fellow knights` |
+| **The Iron Chronicle** | Mastering the ancient art of unbreakable creations | `Legendary status achieved` |
+
+---
+
+## 📊 Chronicle of Victories
 
 <div align="center">
-  
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=PrasaKV&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="400px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasaKV&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae" width="300px"/></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasaKV&theme=nightowl&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="100%" />
+</div>
+
+---
+
+## 🤝 The Fellowship Grows
+
+Every great adventure needs companions. I seek fellow travelers who dream of building wonders, solving impossible puzzles, and leaving the world better than we found it. Whether you're a seasoned warrior or just beginning your journey—there's a place for you in this fellowship.
+
+<div align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Send_a_Raven-Gmail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/📧_Send_a_Raven-Messenger_Service-red?style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/Diplomatic_Relay-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/🤝_Join_the_Guild-Professional_Network-blue?style=for-the-badge" alt="LinkedIn"/>
   </a>
-  
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/🏰_Visit_the_Castle-Grand_Hall-green?style=for-the-badge" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
 
-## 🏰 The Long Farewell
+## 🌅 Until Our Paths Cross Again
 
 <div align="center">
-  
-  <img src="Assets/farewell.gif" alt="The Sun Sets" width="100%"/>
+  <img src="Assets/farewell.gif" alt="Farewell Banner" width="100%"/>
   <br>
-  <i>"May your path be lit by the glow of a thousand successful builds."</i>
+  <i>"May your code compile on the first try, and may your bugs be few and far between.<br>
+  The road ahead is long, but together, we'll make it legendary."</i>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=PrasaKV&color=blueviolet&style=flat-square&label=Travelers+Seen" />
-
+  <img src="https://komarev.com/ghpvc/?username=PrasaKV&color=blueviolet&style=flat-square&label=Travelers+Who+Passed+By" />
 </div>
