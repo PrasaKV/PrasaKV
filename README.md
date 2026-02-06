@@ -12,6 +12,8 @@
   <img src="Assets/idle_knight2.gif" alt="Knight Idle" width="220px"/>
   <br>
   ### 📜 Chronicler of Code • Weaver of Dreams • Guardian of the Realm
+  ### 📜 Chronicler of Code Weaver of Dreams Guardian of the Realm
+  ###📜 Chronicler of Code • Weaver of Dreams • Guardian of the Realm
   
   > *"From shadowed dungeons filled with ancient puzzles to mountain peaks where visions become reality,*<br>
   > *I have walked many paths and learned countless secrets. Now I journey forth,*<br>
