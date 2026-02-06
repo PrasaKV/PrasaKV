@@ -11,9 +11,7 @@
   
   <img src="Assets/idle_knight2.gif" alt="Knight Idle" width="220px"/>
   <br>
-  ### 📜 Chronicler of Code • Weaver of Dreams • Guardian of the Realm
-  ### 📜 Chronicler of Code Weaver of Dreams Guardian of the Realm
-  ###📜 Chronicler of Code • Weaver of Dreams • Guardian of the Realm
+  <h2> 📜 Chronicler of Code • Weaver of Dreams • Guardian of the Realm </h2>
   
   > *"From shadowed dungeons filled with ancient puzzles to mountain peaks where visions become reality,*<br>
   > *I have walked many paths and learned countless secrets. Now I journey forth,*<br>
@@ -42,6 +40,7 @@ Every knight needs trusted companions on their journey. These are mine—each ma
   <img src="Assets/Rust.gif" width="120" alt="Rust" title="The Unbreakable Shield"/>
   <img src="Assets/Python.gif" width="120" alt="Python" title="The Wise Serpent"/>
   <img src="Assets/JS.gif" width="120" alt="JS" title="The Shapeshifter"/>
+  <img src="Assets/PHP.gif" width="120" alt="PHP" title="The Shapeshifter"/>
   <img src="Assets/Java.gif" width="120" alt="Java" title="The Ancient Tome"/>
 </div>
 
@@ -69,7 +68,7 @@ Every knight needs trusted companions on their journey. These are mine—each ma
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=PrasaKV&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="400px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=PrasaKV" width="400px"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasaKV&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae" width="300px"/></td>
     </tr>
   </table>
@@ -83,14 +82,11 @@ Every knight needs trusted companions on their journey. These are mine—each ma
 Every great adventure needs companions. I seek fellow travelers who dream of building wonders, solving impossible puzzles, and leaving the world better than we found it. Whether you're a seasoned warrior or just beginning your journey—there's a place for you in this fellowship.
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:prasadkvithana@gmail.com">
     <img src="https://img.shields.io/badge/📧_Send_a_Raven-Messenger_Service-red?style=for-the-badge" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/prasad-prasanna-367660287">
     <img src="https://img.shields.io/badge/🤝_Join_the_Guild-Professional_Network-blue?style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/🏰_Visit_the_Castle-Grand_Hall-green?style=for-the-badge" alt="Portfolio"/>
   </a>
 </div>
 
