@@ -68,11 +68,16 @@ Every knight needs trusted companions on their journey. These are mine—each ma
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=PrasaKV&show_icons=true&hide_rank=true&hide_title=true&theme=radical" width="400px"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasaKV&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae" width="300px"/></td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=PrasaKV&show_icons=true&hide_rank=true&hide_title=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="Battle Statistics" width="400px"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasaKV&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae&langs_count=6" alt="Mastered Tongues" width="300px"/>
+      </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasaKV&theme=nightowl&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="100%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasaKV&theme=nightowl&hide_border=true&background=0D1117&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" width="100%" alt="Commit Streak" />
 </div>
 
 ---
